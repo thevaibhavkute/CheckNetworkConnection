@@ -32,13 +32,6 @@ class ConnectionLiveData(private val connectivityManager: ConnectivityManager) :
     }
 
 
-
-
-
-
-
-
-
     @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
     override fun onActive() {
         super.onActive()
