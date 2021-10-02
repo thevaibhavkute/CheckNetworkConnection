@@ -23,6 +23,17 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+
+
+
+
+
+
+
+
+
+
+
     private fun checkNetworkConnection() {
         cld = ConnectionLiveData(application)
 
